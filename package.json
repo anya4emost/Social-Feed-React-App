@@ -1,0 +1,31 @@
+{
+  "name": "test-todo-on-next",
+  "version": "0.1.0",
+  "dependencies": {
+    "@types/react": "^16.7.18",
+    "@zeit/next-sass": "^1.0.1",
+    "@zeit/next-typescript": "^1.1.1",
+    "classnames": "^2.2.6",
+    "next": "^8.0.4",
+    "node-sass": "^4.11.0",
+    "ramda": "^0.26.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "2.1.8",
+    "typescript": "^2.9.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
